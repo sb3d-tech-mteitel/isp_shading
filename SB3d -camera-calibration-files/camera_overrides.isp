@@ -9,10 +9,10 @@
 #* =============================================================
 #* ISP Configuration Override File
 #* Copyright (c) 2012-2017, NVIDIA CORPORATION.  All rights reserved.
-#* Model:model
-#* Integrator:
+#* Model:
+#* Integrator:SB3D
 #* Part#:
-#* Sensor:sensor
+#* Sensor:IMX412
 #* Size:
 #* Version: version
 #* FileName & Location:/data/nvcam/settings/camera_overrides.isp
